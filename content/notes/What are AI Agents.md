@@ -13,7 +13,7 @@ The word agent comes from the Latin word "agens". This means "the one who acts".
 
 I'll make some notes on this paper, once I finish reading this. This "agent" concept is older than most people think
 
-The LLM era of Agents changed in a way so that we can give models examples and then they can do the tasks. Basically, currently agents are becoming more and more general tasks handlers. Previously its mostly for specific tasks
+The LLM era of Agents changed in a way so that we can give models examples and then they can do the tasks. Basically, currently agents are becoming more and more general tasks handlers. Previously its mostly for specific tasks [[Agentic Systems Explained|source]]
 
 ## Anatomy of an Agent
 There are 5 components:
